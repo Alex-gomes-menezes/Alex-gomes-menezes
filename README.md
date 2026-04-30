@@ -10,6 +10,8 @@ crio projetos com:
 
 -css <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/404ef0ee-cb98-470e-b1a1-981591210f41" />
 
+-Git e Github <img width="128" height="128" src="https://cdn-icons-png.flaticon.com/128/1051/1051326.png"/>
+
 Estou inicializando meu aprendizado com javascrip e react....
 
 uso vscode <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/c6b690a4-9258-4347-954b-d2e18ad83526" />
