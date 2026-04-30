@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou o alex , estou estudando programação atraves do devclub , já tenho o certificado de HTML e CSS intermediario.....
+Sou o alex , estou estudando programação atraves do devclub , já tenho o certificado de HTML e CSS intermediario e git&github
 
 muito bem vindos ao meu github....
 
